@@ -10,3 +10,20 @@
 - Hacer un archivo separado por comas
 - Hacer un archivo JSON
 - Crear una API
+
+### Asunto
+
+| NoDictamen | Titulo del asunto |
+|------------|-------------------|
+
+### Resultados totales de votación
+| SI | NO | PRESENTES |
+|----|----|-----------|
+
+### Resultados votacion de grupo
+| Grupo | SI | ABSTENCION | NO | AUSENTE |
+|-------|----|------------|----|---------|
+
+### Resultados de votacion individual
+| Nombre | SI | ABSTENCION | NO | AUSENTE |
+|--------|----|------------|----|---------|
